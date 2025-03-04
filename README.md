@@ -31,4 +31,4 @@ Replace `script_name.py` with the name of the script you want to run.
 - For more details, visit [EinsteinPy Documentation](https://docs.einsteinpy.org/).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the IIT License.
